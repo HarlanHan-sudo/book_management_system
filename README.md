@@ -59,3 +59,6 @@ pip install fastapi uvicorn sqlalchemy jinja2 python-multipart
 ```text
 uvicorn main:app --reload
 ```
+## 访问系统
+运行成功后，点击 http://127.0.0.1:8000 即可进入后台访问
+<img width="1083" height="219" alt="image" src="https://github.com/user-attachments/assets/122d2807-a697-433f-80be-0c13518facf9" />
